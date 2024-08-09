@@ -1,5 +1,4 @@
-{
-  "employees": [
+[
   {
     "id": 1,
     "firstName": "John",
@@ -95,5 +94,4 @@
     "dateOfBirth": "1990-01-01",
     "educationLevel": "Student"
   }
-  ]
-}
+]
